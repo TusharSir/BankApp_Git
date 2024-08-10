@@ -1,0 +1,1 @@
+pytest -v -n=4 -m "sanity and group1" --html=HTMLReport/myreport_firefox.html --browser firefox --alluredir="Allure-results" -p no:warnings

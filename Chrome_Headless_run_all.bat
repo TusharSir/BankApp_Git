@@ -1,0 +1,1 @@
+pytest -v -n=5  --html=HTMLReports/myreport_chrome.html --alluredir="allure-results" -p no:warnings -m "sanity and group1"

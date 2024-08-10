@@ -1,0 +1,456 @@
+ 2024-08-08 09:04:22,700 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-08 09:04:22,701 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-08 09:04:22,701 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-08 09:04:22,705 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-08 09:04:22,708 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-08 09:04:23,127 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-08 09:04:39,387 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 09:04:39,388 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 09:04:40,041 : INFO : test_Signup_002  : Entering the Username  
+ 2024-08-08 09:04:40,466 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-08 09:04:40,522 : INFO : test_Signup_002  : Entering the Email  
+ 2024-08-08 09:04:40,558 : INFO : test_Signup_002  : Entering the Phone  
+ 2024-08-08 09:04:40,580 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-08 09:04:56,499 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-08 09:04:56,501 : INFO : test_Login_003  : Opening browser  
+ 2024-08-08 09:04:56,501 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-08 09:04:57,263 : INFO : test_Login_003  : Entering the username  
+ 2024-08-08 09:04:58,313 : INFO : test_Login_003  : Entering the password  
+ 2024-08-08 09:04:58,430 : INFO : test_Login_003  : Click on login button  
+ 2024-08-08 09:04:59,438 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-08 09:04:59,446 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-08 09:04:59,446 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-08 09:05:00,028 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-08 09:11:16,057 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-08 09:11:16,057 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-08 09:11:16,058 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-08 09:11:16,058 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-08 09:11:16,059 : INFO : test_Login_003  : Opening browser  
+ 2024-08-08 09:11:16,059 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-08 09:11:16,066 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 09:11:16,066 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 09:11:16,069 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-08 09:11:16,069 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-08 09:11:16,227 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-08 09:11:16,573 : INFO : test_Signup_002  : Entering the Username  
+ 2024-08-08 09:11:16,576 : INFO : test_Login_003  : Entering the username  
+ 2024-08-08 09:11:16,729 : INFO : test_Login_003  : Entering the password  
+ 2024-08-08 09:11:16,746 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-08 09:11:16,858 : INFO : test_Signup_002  : Entering the Email  
+ 2024-08-08 09:11:16,888 : INFO : test_Login_003  : Click on login button  
+ 2024-08-08 09:11:16,984 : INFO : test_Signup_002  : Entering the Phone  
+ 2024-08-08 09:11:17,095 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-08 09:11:17,961 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-08 09:11:17,961 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-08 09:11:17,989 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-08 09:11:17,990 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-08 09:11:18,186 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-08 09:11:23,059 : INFO : test_Signup_002  : Testcase test_Signup_002 is fail  
+ 2024-08-08 09:11:23,061 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-08 09:11:23,302 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-08 09:12:24,617 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-08 09:12:24,617 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-08 09:12:24,618 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-08 09:12:24,625 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-08 09:12:24,625 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-08 09:12:24,711 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 09:12:24,712 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 09:12:24,815 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-08 09:12:25,016 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-08 09:12:25,016 : INFO : test_Login_003  : Opening browser  
+ 2024-08-08 09:12:25,016 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-08 09:12:25,269 : INFO : test_Signup_002  : Entering the Username  
+ 2024-08-08 09:12:25,392 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-08 09:12:25,436 : INFO : test_Login_003  : Entering the username  
+ 2024-08-08 09:12:25,538 : INFO : test_Signup_002  : Entering the Email  
+ 2024-08-08 09:12:25,612 : INFO : test_Login_003  : Entering the password  
+ 2024-08-08 09:12:25,658 : INFO : test_Signup_002  : Entering the Phone  
+ 2024-08-08 09:12:25,725 : INFO : test_Login_003  : Click on login button  
+ 2024-08-08 09:12:25,776 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-08 09:12:26,659 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-08 09:12:26,690 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-08 09:12:26,707 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-08 09:12:26,707 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-08 09:12:26,936 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-08 09:12:31,718 : INFO : test_Signup_002  : Testcase test_Signup_002 is fail  
+ 2024-08-08 09:12:31,719 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-08 09:12:32,078 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-08 10:17:21,058 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-08 10:17:21,059 : INFO : test_Login_003  : Opening browser  
+ 2024-08-08 10:17:21,059 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-08 10:17:21,698 : INFO : test_Login_003  : Entering the username  
+ 2024-08-08 10:17:21,856 : INFO : test_Login_003  : Entering the password  
+ 2024-08-08 10:17:21,947 : INFO : test_Login_003  : Click on login button  
+ 2024-08-08 10:17:23,020 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-08 10:17:23,029 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-08 10:17:23,029 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-08 10:17:23,716 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-08 10:20:18,508 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-08 10:20:18,509 : INFO : test_Login_003  : Opening browser  
+ 2024-08-08 10:20:18,509 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-08 10:20:19,034 : INFO : test_Login_003  : Entering the username  
+ 2024-08-08 10:20:19,277 : INFO : test_Login_003  : Entering the password  
+ 2024-08-08 10:20:19,435 : INFO : test_Login_003  : Click on login button  
+ 2024-08-08 10:20:20,463 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-08 10:20:20,476 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-08 10:20:20,476 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-08 10:20:20,705 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-08 10:27:58,188 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-08 10:27:58,189 : INFO : test_Login_003  : Opening browser  
+ 2024-08-08 10:27:58,189 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-08 10:27:58,700 : INFO : test_Login_003  : Entering the username  
+ 2024-08-08 10:27:58,816 : INFO : test_Login_003  : Entering the password  
+ 2024-08-08 10:27:58,900 : INFO : test_Login_003  : Click on login button  
+ 2024-08-08 10:27:59,893 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-08 10:27:59,902 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-08 10:27:59,902 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-08 10:28:00,058 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-08 10:28:30,929 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-08 10:28:30,930 : INFO : test_Login_003  : Opening browser  
+ 2024-08-08 10:28:30,930 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-08 10:28:31,581 : INFO : test_Login_003  : Entering the username  
+ 2024-08-08 10:28:31,778 : INFO : test_Login_003  : Entering the password  
+ 2024-08-08 10:28:31,942 : INFO : test_Login_003  : Click on login button  
+ 2024-08-08 10:28:32,802 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-08 10:28:32,814 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-08 10:28:32,814 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-08 10:28:33,257 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-08 19:23:19,346 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 19:23:19,348 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 19:23:20,228 : INFO : test_Signup_002  : Entering the Username  
+ 2024-08-08 19:23:57,286 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 19:23:57,294 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 19:23:58,122 : INFO : test_Signup_002  : Entering the Username  
+ 2024-08-08 19:23:58,436 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-08 19:23:58,653 : INFO : test_Signup_002  : Entering the Email  
+ 2024-08-08 19:23:58,928 : INFO : test_Signup_002  : Entering the Phone  
+ 2024-08-08 19:23:59,089 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-08 19:23:59,633 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-08 19:24:00,685 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-08 19:24:00,686 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-08 19:24:01,066 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-08 19:24:59,542 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 19:24:59,542 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 19:25:00,364 : INFO : test_Signup_002  : User1LLY9bqc  
+ 2024-08-08 19:25:00,849 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-08 19:25:01,059 : INFO : test_Signup_002  : UserPsWaW0Wm@example.com  
+ 2024-08-08 19:25:01,356 : INFO : test_Signup_002  : 5267663877  
+ 2024-08-08 19:25:02,304 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-08 19:25:03,708 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-08 19:25:04,907 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-08 19:25:04,907 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-08 19:25:05,330 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-08 19:25:46,181 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 19:25:46,181 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 19:25:46,775 : INFO : test_Signup_002  : UserCCKTCL  
+ 2024-08-08 19:25:47,036 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-08 19:25:47,209 : INFO : test_Signup_002  : User1mh3Wj@example.com  
+ 2024-08-08 19:25:47,329 : INFO : test_Signup_002  : 2219243942  
+ 2024-08-08 19:25:47,427 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-08 19:25:47,856 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-08 19:25:48,965 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-08 19:25:48,966 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-08 19:25:49,255 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-08 19:26:20,430 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 19:26:20,430 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 19:26:20,910 : INFO : test_Signup_002  : User5ISEwg  
+ 2024-08-08 19:26:21,223 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-08 19:26:21,321 : INFO : test_Signup_002  : UserXtPY5x@example.com  
+ 2024-08-08 19:26:21,618 : INFO : test_Signup_002  : 8367607171  
+ 2024-08-08 19:26:21,752 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-08 19:26:22,391 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-08 19:26:23,450 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-08 19:26:23,450 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-08 19:26:23,665 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-08 19:26:43,639 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-08 19:26:43,639 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-08 19:26:44,596 : INFO : test_Signup_002  : User8XASY2  
+ 2024-08-08 19:26:44,882 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-08 19:26:45,415 : INFO : test_Signup_002  : UserHkkqun@example.com  
+ 2024-08-08 19:26:45,828 : INFO : test_Signup_002  : 3815297725  
+ 2024-08-08 19:26:46,272 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-08 19:26:47,121 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-08 19:26:48,256 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-08 19:26:48,257 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-08 19:26:48,487 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-09 07:28:42,194 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-09 07:28:42,195 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-09 07:28:42,746 : INFO : test_Signup_002  : User3iELuU  
+ 2024-08-09 07:28:42,927 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-09 07:28:43,036 : INFO : test_Signup_002  : Usere3f0VV@example.com  
+ 2024-08-09 07:28:43,121 : INFO : test_Signup_002  : 7836488500  
+ 2024-08-09 07:28:43,211 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-09 07:28:43,532 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-09 07:28:44,646 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-09 07:28:44,646 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-09 07:28:44,752 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-09 07:30:20,266 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-09 07:30:20,267 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-09 07:30:20,809 : INFO : test_Signup_002  : UserAvqyMV  
+ 2024-08-09 07:30:20,955 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-09 07:30:21,038 : INFO : test_Signup_002  : UseriFvnLC@gmail.com  
+ 2024-08-09 07:30:21,146 : INFO : test_Signup_002  : 2008328659  
+ 2024-08-09 07:30:21,258 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-09 07:30:21,661 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-09 07:30:22,786 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-09 07:30:22,787 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-09 07:30:22,997 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 07:32:30,079 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 07:32:30,080 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 07:32:30,080 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 07:32:30,095 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 07:32:30,096 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 07:32:30,542 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 07:32:42,896 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 07:32:42,896 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 07:32:43,469 : INFO : test_Signup_002  : User0IbmFA  
+ 2024-08-10 07:32:43,654 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 07:32:43,950 : INFO : test_Signup_002  : UseroCPS0S@gmail.com  
+ 2024-08-10 07:32:44,239 : INFO : test_Signup_002  : 3324031544  
+ 2024-08-10 07:32:44,410 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 07:32:44,857 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 07:32:45,927 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 07:32:45,927 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 07:32:46,269 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 07:32:56,555 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-10 07:32:56,555 : INFO : test_Login_003  : Opening browser  
+ 2024-08-10 07:32:56,555 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-10 07:32:57,188 : INFO : test_Login_003  : Entering the username  
+ 2024-08-10 07:32:57,625 : INFO : test_Login_003  : Entering the password  
+ 2024-08-10 07:32:57,833 : INFO : test_Login_003  : Click on login button  
+ 2024-08-10 07:32:58,818 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-10 07:32:58,842 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-10 07:32:58,847 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-10 07:32:59,269 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-10 07:34:24,231 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-10 07:34:24,232 : INFO : test_Login_003  : Opening browser  
+ 2024-08-10 07:34:24,232 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-10 07:34:27,466 : INFO : test_Login_003  : Entering the username  
+ 2024-08-10 07:34:29,575 : INFO : test_Login_003  : Entering the password  
+ 2024-08-10 07:34:29,764 : INFO : test_Login_003  : Click on login button  
+ 2024-08-10 07:34:37,781 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-10 07:34:38,115 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-10 07:34:38,116 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-10 07:34:39,744 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-10 07:37:47,043 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-10 07:37:47,044 : INFO : test_Login_003  : Opening browser  
+ 2024-08-10 07:37:47,045 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-10 07:37:48,614 : INFO : test_Login_003  : Entering the username  
+ 2024-08-10 07:37:49,223 : INFO : test_Login_003  : Entering the password  
+ 2024-08-10 07:37:49,428 : INFO : test_Login_003  : Click on login button  
+ 2024-08-10 07:37:51,262 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-10 07:37:51,475 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-10 07:37:51,475 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-10 07:37:51,973 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-10 07:43:27,688 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 07:43:27,690 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 07:43:27,690 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 07:43:27,692 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 07:43:27,693 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 07:43:27,704 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 07:43:27,704 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 07:43:29,281 : INFO : test_Signup_002  : UserzUjXxg  
+ 2024-08-10 07:43:29,425 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 07:43:30,120 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 07:43:30,401 : INFO : test_Signup_002  : UsertJ7gpj@gmail.com  
+ 2024-08-10 07:43:30,687 : INFO : test_Signup_002  : 4945720768  
+ 2024-08-10 07:43:30,922 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 07:43:31,638 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 07:43:32,731 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 07:43:32,731 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 07:43:33,113 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 10:10:40,586 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 10:10:40,587 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 10:10:40,587 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 10:10:40,657 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 10:10:40,658 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 10:10:40,820 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 10:10:40,820 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 10:10:41,565 : INFO : test_Signup_002  : UserkGtEV7  
+ 2024-08-10 10:10:41,599 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 10:10:42,072 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 10:10:42,666 : INFO : test_Signup_002  : UserNxIoGH@gmail.com  
+ 2024-08-10 10:10:42,986 : INFO : test_Signup_002  : 2436045093  
+ 2024-08-10 10:10:43,163 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 10:10:43,920 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 10:10:44,958 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 10:10:44,958 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 10:10:45,188 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 10:12:01,682 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 10:12:01,682 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 10:12:01,682 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 10:12:01,857 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 10:12:01,857 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 10:12:02,132 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 10:12:02,132 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 10:12:02,934 : INFO : test_Signup_002  : UseroLx0IM  
+ 2024-08-10 10:12:03,189 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 10:12:03,475 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 10:12:03,769 : INFO : test_Signup_002  : User74J45V@gmail.com  
+ 2024-08-10 10:12:03,955 : INFO : test_Signup_002  : 4897485441  
+ 2024-08-10 10:12:04,213 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 10:12:05,263 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 10:12:06,300 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 10:12:06,300 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 10:12:06,592 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 10:13:44,937 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 10:13:44,937 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 10:13:45,274 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 10:13:45,274 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 10:13:45,274 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 10:13:45,274 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 10:13:45,274 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 10:13:45,524 : INFO : test_Signup_002  : User6qSEFD  
+ 2024-08-10 10:13:45,694 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 10:13:45,754 : INFO : test_Signup_002  : UsercQlvqB@gmail.com  
+ 2024-08-10 10:13:45,854 : INFO : test_Signup_002  : 1801619166  
+ 2024-08-10 10:13:45,914 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 10:13:46,044 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 10:16:07,494 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 10:16:07,494 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 10:16:07,495 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 10:16:07,563 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 10:16:07,564 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 10:16:07,945 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 10:16:07,945 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 10:16:08,665 : INFO : test_Signup_002  : UserDnvfKC  
+ 2024-08-10 10:16:08,860 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 10:16:08,993 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 10:16:09,337 : INFO : test_Signup_002  : UserqUZ2jX@gmail.com  
+ 2024-08-10 10:16:09,511 : INFO : test_Signup_002  : 0300376698  
+ 2024-08-10 10:16:09,667 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 10:16:10,382 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 10:16:11,421 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 10:16:11,421 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 10:16:11,625 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 10:18:17,639 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 10:18:17,639 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 10:18:18,478 : INFO : test_Signup_002  : UserbE18gC  
+ 2024-08-10 10:18:19,052 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 10:18:19,052 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 10:18:19,052 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 10:18:19,074 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 10:18:19,074 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 10:18:19,157 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 10:18:19,529 : INFO : test_Signup_002  : User6qDGcF@gmail.com  
+ 2024-08-10 10:18:20,129 : INFO : test_Signup_002  : 2213813213  
+ 2024-08-10 10:18:20,210 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 10:18:20,426 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 10:18:21,046 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 10:18:22,137 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 10:18:22,146 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 10:18:22,633 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 10:22:07,356 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 10:22:07,357 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 10:22:07,357 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 10:22:07,366 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 10:22:07,366 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 10:22:07,583 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 10:22:07,583 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 10:22:08,034 : INFO : test_Signup_002  : UserHmIuX9  
+ 2024-08-10 10:22:08,334 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 10:22:08,516 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 10:22:08,765 : INFO : test_Signup_002  : UserdFxso0@gmail.com  
+ 2024-08-10 10:22:08,915 : INFO : test_Signup_002  : 3565282158  
+ 2024-08-10 10:22:09,058 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 10:22:09,466 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 10:22:10,494 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 10:22:10,494 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 10:22:10,705 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 11:18:40,980 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 11:18:40,980 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 11:18:40,981 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 11:18:41,007 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 11:18:41,009 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 11:18:41,872 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 11:18:56,539 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-10 11:18:56,539 : INFO : test_Login_003  : Opening browser  
+ 2024-08-10 11:18:56,539 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-10 11:18:56,917 : INFO : test_Login_003  : Entering the username  
+ 2024-08-10 11:18:57,090 : INFO : test_Login_003  : Entering the password  
+ 2024-08-10 11:18:57,237 : INFO : test_Login_003  : Click on login button  
+ 2024-08-10 11:18:57,935 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-10 11:18:57,935 : INFO : test_Login_003  : Testcase test_Login_003 is passed  
+ 2024-08-10 11:18:57,935 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-10 11:18:58,489 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
+ 2024-08-10 11:19:05,221 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 11:19:05,222 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 11:19:05,534 : INFO : test_Signup_002  : UserEyoDsW  
+ 2024-08-10 11:19:05,677 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 11:19:05,770 : INFO : test_Signup_002  : UserIFicFF@gmail.com  
+ 2024-08-10 11:19:05,890 : INFO : test_Signup_002  : 4206775471  
+ 2024-08-10 11:19:05,990 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 11:19:06,303 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 11:19:07,328 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 11:19:07,328 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 11:19:07,675 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 18:05:46,189 : INFO : test_Signup_002  : Testcase test_Signup_002 is started  
+ 2024-08-10 18:05:46,189 : INFO : test_Signup_002  : Opening browser  
+ 2024-08-10 18:05:47,338 : INFO : test_Signup_002  : UserJcRKcP  
+ 2024-08-10 18:05:48,190 : INFO : test_Signup_002  : Entering the Password  
+ 2024-08-10 18:05:49,065 : INFO : test_Signup_002  : UserQCD2Zf@gmail.com  
+ 2024-08-10 18:05:49,169 : INFO : test_Signup_002  : 7657276958  
+ 2024-08-10 18:05:49,261 : INFO : test_Signup_002  : Click on Create user button  
+ 2024-08-10 18:05:50,112 : INFO : test_Signup_002  : Checking user creation  
+ 2024-08-10 18:05:51,274 : INFO : test_Signup_002  : Testcase test_Signup_002 is passed  
+ 2024-08-10 18:05:51,274 : INFO : test_Signup_002  : Taking screenshot  
+ 2024-08-10 18:05:51,725 : INFO : test_Signup_002  : Testcase test_Signup_002 is completed
+  
+ 2024-08-10 18:06:11,907 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is started  
+ 2024-08-10 18:06:11,907 : INFO : test_BankApp_Url_001  : Opening browser  
+ 2024-08-10 18:06:11,907 : INFO : test_BankApp_Url_001  : Checking page title  
+ 2024-08-10 18:06:11,916 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is passed  
+ 2024-08-10 18:06:11,916 : INFO : test_BankApp_Url_001  : Taking screenshot  
+ 2024-08-10 18:06:12,185 : INFO : test_BankApp_Url_001  : Testcase test_BankApp_Url_001 is completed
+  
+ 2024-08-10 18:06:12,507 : INFO : test_Login_003  : Testcase test_Login_003 is started  
+ 2024-08-10 18:06:12,507 : INFO : test_Login_003  : Opening browser  
+ 2024-08-10 18:06:12,507 : INFO : test_Login_003  : Click on Login link  
+ 2024-08-10 18:06:12,961 : INFO : test_Login_003  : Entering the username  
+ 2024-08-10 18:06:13,253 : INFO : test_Login_003  : Entering the password  
+ 2024-08-10 18:06:13,467 : INFO : test_Login_003  : Click on login button  
+ 2024-08-10 18:06:13,768 : INFO : test_Login_003  : Checking the page title  
+ 2024-08-10 18:06:13,775 : INFO : test_Login_003  : Testcase test_Login_003 is failed  
+ 2024-08-10 18:06:13,775 : INFO : test_Login_003  : Taking screenshot  
+ 2024-08-10 18:06:14,010 : INFO : test_Login_003  : Testcase test_Login_003 is completed
+  
